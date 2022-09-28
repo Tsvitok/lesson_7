@@ -5,7 +5,7 @@ body{
     
 }
 main{
-    background: url("../img/_igra-kazino.jpg") center/auto auto no-repeat fixed;
+    background: url("../img/_igra-kazino.jpg") center no-repeat fixed;
 }
 .first-block{
     background-color: aliceblue;
