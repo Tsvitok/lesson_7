@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Roboto:wght@400;700;900&display=swap');
+
+body{
+    font-family: Lato, Roboto, serif;
+    
+}
+main{
+    background: url("../img/_igra-kazino.jpg") center/auto auto no-repeat fixed;
+}
+.first-block{
+    background-color: aliceblue;
+}
+[class*=__container]{
+    max-width: 830px;
+    margin: 0 auto;
+}
+.__container-2{
+    max-width: 1232px;
+    margin-right: auto;
+}
+
+
+h1{
+    color: #010c05;
+    text-shadow: 2px -2px 2px darkblue;
+    font-size: 46px;
+    font-family: Lato;
+    font-weight: 700;
+    line-height: 1.2;
+    background: #cde26d;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px black;
+    padding: 5px;
+    margin-bottom: 26px;
+}
+image{
+    max-width: 100%;
+    
+}
+.head{
+    margin-bottom: 16px;
+}
+.__container p.text-0{
+    text-shadow: 10px 5px 15px rgb(234, 238, 15);
+    font-family: Lato;
+    font-size: 20px;
+    line-height: 1.5;
+    font-weight: 700;
+    background:  rgb(193, 193, 219);
+    border-radius: 20px 15px 25px 15px;
+    box-shadow: 0px -10px 5px greenyellow;
+    padding: 15px;
+    margin-bottom: 40px;
+}
+.text-1,
+.text-2{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.2;
+    padding: 5px;
+}
+.text-1 {
+    color: #f7f3f3;
+    background: url("../img/1586162621_1.jpg") 0 0/100% no-repeat;
+    margin-bottom: 20px;
+}
+
+.text-2{
+    margin-bottom: 50px;
+}
+.text-3{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1.5;
+    padding: 0px 36px 0px 39px;
+    background: url("../img/ukraine.jpeg") 0 0/100% 100% no-repeat;
+    margin-bottom: 40px;
+    
+}
+.fifth{
+    background: linear-gradient(128deg,#3fe7a5 0%, #eccf58 20%);
+    margin-bottom: 40px;
+}
+.fifth__container{
+    background: red url("../img/1586162621_1.jpg") 0 0/100% no-repeat;
+}
+
+h2{
+    color: #f7f3f3;
+    font-size: 16px;
+    line-height: 1.6;
+    font-family: Lato;
+    font-weight: 400;
+    margin-bottom: 33px;
+}
+ul{
+    color: #fdfcfc;
+font-size: 16px;
+line-height: 1.6;
+font-family: Lato;
+font-weight: 400;
+padding: 4px 210px 4px 30px;
+margin-bottom: 24px;
+}
+.fifth-text{
+    color: #b31717;
+    font-size: 16px;
+    line-height: 1.6;
+    font-weight: 400;
+    font-family: Lato;
+}
+p.text.__container-2 {
+    font-size: 40px;
+    line-height: 1.2;
+    font-weight: 900;
+    margin-bottom: 30px;
+}
+.image-1{
+max-width: 370px;
+/* max-height: 390px; */
+margin-bottom: 30px;
+}
+h2.sixth{
+    color: #010c05;
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: Roboto;
+    font-weight: 900;
+}
+.container-1,
+.container-2,
+.container-3{
+    max-width: 370px;
+    background-color: #e6ebe6;
+    display: inline-block;
+}
+.container-1{
+    margin-right: 30px;
+}
+.container-2{
+    margin-right: 30px;
+}
+.box-1 p, h2{
+    padding: 10px;
+}
+.sixth {
+    margin-bottom: 40px;
+}
+h3{
+    color: #00ff00;
+    font-size: 20px;
+    line-height: 1.2;
+    font-weight: 400;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.sevenht{
+    background-color: rgba(214, 211, 211, 0.801);
+}
+.text-sevenht{
+    background: url("../img/image_2.jpg") left bottom / 20% no-repeat, 
+    url("../img/image_3_1.jpg") right top / 10% no-repeat, 
+    url("../img/image_3_3.jpg") 0 0 / 10% no-repeat, 
+    url("../img/image_3_2.jpg") right bottom / 10% no-repeat, 
+    url("../img/ukraine.jpeg") center/cover no-repeat;
+}
+.text-sevenht p{
+    color: #f7f3f3;
+    font-family: Lato;
+    font-size: 30px;
+    line-height: 1.2;
+    font-weight: 400;
+    text-align: right;
+    margin: 20px;
+    
+}
