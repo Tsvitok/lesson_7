@@ -82,7 +82,7 @@ image{
     margin-bottom: 40px;
 }
 .fifth__container{
-    background: red url("../img/1586162621_1.jpg") 0 0/100% no-repeat;
+    background: red url("../img/1586162621_1.jpg") 0 0/100% 100% no-repeat;
 }
 
 h2{
